@@ -1,1 +1,47 @@
-IyBTUUwgVG9vbGtpdAoKVW4gb3V0aWwgcMOpZGFnb2dpcXVlIHBvdXIgbCdhcHByZW50aXNzYWdlIGV0IGxhIGNvbXByw6loZW5zaW9uIGRlcyBpbmplY3Rpb25zIFNRTC4gQ2UgcHJvamV0IHNlcnQgZGUgc3VwcG9ydCBkZSBjb3VycyBwb3VyIGVuc2VpZ25lciA6CiogTGVzIG3DqWNhbmlzbWVzIGRlcyBpbmplY3Rpb25zIFNRTAoqIExlcyB0ZWNobmlxdWVzIGRlIGTDqXRlY3Rpb24KKiBMZXMgYm9ubmVzIHByYXRpcXVlcyBkZSBzw6ljdXJpdMOpCiogTGVzIG3DqXRob2RlcyBkZSBwcsOpdmVudGlvbgoKIyMg8J+ZkyBDb250ZXh0ZSDDqWR1Y2F0aWYKCkNlIHRvb2xraXQgZXN0IGNvbsOndSBjb21tZSBtYXTDqXJpZWwgcMOpZGFnb2dpcXVlIHBvdXIgbGVzIGNvdXJzIGRlIHPDqWN1cml0w6kgaW5mb3JtYXRpcXVlLiBJbCBwZXJtZXQgYXV4IMOpdHVkaWFudHMgZGUgOgoqIENvbXByZW5kcmUgY29tbWVudCBmb25jdGlvbm5lbnQgbGVzIGluamVjdGlvbnMgU1FMIGRhbnMgdW4gZW52aXJvbm5lbWVudCBjb250csO0bMOpCiogQXBwcmVuZHJlIMOgIGlkZW50aWZpZXIgbGVzIHZ1bG7DqXJhYmlsaXTDqXMgU1FMCiogUHJhdGlxdWVyIGxhIHPDqWN1cmlzYXRpb24gZGVzIHJlcXXDqnRlcyBTUUwKKiBTZSBmYW1pbGlhcmlzZXIgYXZlYyBsZXMgb3V0aWxzIGQnYXVkaXQgZGUgc8OpY3VyaXTDqQoKIyMg8J+TgSBTdHJ1Y3R1cmUgZHUgcHJvamV0CgpgYGAKc3FsX3Rvb2xraXQvCuKUgOKUgOKUgCBjb25maWcvICAgICAgICAgIyBDb25maWd1cmF0aW9ucyBwb3VyIGxlcyBkaWZmw6lyZW50cyBzY8OpbmFyaW9zIHDDqWRhZ29naXF1ZXMK4pSA4pSA4pSAIG1vZHVsZXMvICAgICAgICAjIE1vZHVsZXMgZCdhcHByZW50aXNzYWdlIGV0IGV4ZXJjaWNlcwrilIDilIDilIAgc3FsbWFwLnB5ICAgICAgICMgU2NyaXB0IHByaW5jaXBhbApgYGAKCiMjIPCfm6cgSW5zdGFsbGF0aW9uCgpgYGBiYXNoCiMgQ2xvbmVyIGxlIGTDqXDDtHQKZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9ib3VoZW5pYy9zcWxfdG9vbGtpdC5naXQKY2Qgc3FsX3Rvb2xraXQKCiMgRG9ubmVyIGxlcyBkcm9pdHMgZCdleMOpY3V0aW9uCmNobW9kICt4IHNxbG1hcC5weQpgYGAKCiMjIPCflJAgVXRpbGlzYXRpb24gZGFucyB1biBjYWRyZSBww6lkYWdvZ2lxdWUKCmBgYGJhc2gKLi9zcWxtYXAucHkgW29wdGlvbnNdCmBgYAoKTGVzIGRpZmbDqXJlbnRlcyBvcHRpb25zIHBlcm1ldHRlbnQgZCdleHBsb3JlciBwcm9ncmVzc2l2ZW1lbnQgbGVzIGNvbmNlcHRzLCBkZXMgcGx1cyBiYXNpcXVlcyBhdXggcGx1cyBhdmFuY8Opcy4KCiMjIOKaoO+4jyBBdmVydGlzc2VtZW50IHDDqWRhZ29naXF1ZQoKQ2V0IG91dGlsIGVzdCBleGNsdXNpdmVtZW50IGRlc3RpbsOpIMOgIHVuIHVzYWdlIMOpZHVjYXRpZiBkYW5zIGxlIGNhZHJlIGQndW4gY291cnMgc3VyIGxhIHPDqWN1cml0w6kgZGVzIGFwcGxpY2F0aW9ucyB3ZWIuIExlcyB0ZWNobmlxdWVzIHByw6lzZW50w6llcyBuZSBkb2l2ZW50IMOqdHJlIHByYXRpcXXDqWVzIHF1ZSBkYW5zIGwnZW52aXJvbm5lbWVudCBkZSB0ZXN0IGZvdXJuaS4gVG91dGUgdXRpbGlzYXRpb24gc3VyIGRlcyBzeXN0w6htZXMgcsOpZWxzIHNhbnMgYXV0b3Jpc2F0aW9uIGVzdCBpbnRlcmRpdGUu
+# SQL Toolkit
+
+Un outil pédagogique pour l'apprentissage et la compréhension des injections SQL. Ce projet sert de support de cours pour enseigner :
+* Les mécanismes des injections SQL
+* Les techniques de détection
+* Les bonnes pratiques de sécurité
+* Les méthodes de prévention
+
+## 🎓 Contexte éducatif
+
+Ce toolkit est conçu comme matériel pédagogique pour les cours de sécurité informatique. Il permet aux étudiants de :
+* Comprendre comment fonctionnent les injections SQL dans un environnement contrôlé
+* Apprendre à identifier les vulnérabilités SQL
+* Pratiquer la sécurisation des requêtes SQL
+* Se familiariser avec les outils d'audit de sécurité
+
+## 📁 Structure du projet
+
+```
+sql_toolkit/
+├── config/         # Configurations pour les différents scénarios pédagogiques
+├── modules/        # Modules d'apprentissage et exercices
+└── sqlmap.py      # Script principal
+```
+
+## 🔧 Installation
+
+```bash
+# Cloner le dépôt
+git clone https://github.com/bouhenic/sql_toolkit.git
+cd sql_toolkit
+
+# Donner les droits d'exécution
+chmod +x sqlmap.py
+```
+
+## 🚀 Utilisation dans un cadre pédagogique
+
+```bash
+./sqlmap.py [options]
+```
+
+Les différentes options permettent d'explorer progressivement les concepts, des plus basiques aux plus avancés.
+
+## ⚠️ Avertissement pédagogique
+
+Cet outil est exclusivement destiné à un usage éducatif dans le cadre d'un cours sur la sécurité des applications web. Les techniques présentées ne doivent être pratiquées que dans l'environnement de test fourni. Toute utilisation sur des systèmes réels sans autorisation est interdite.
