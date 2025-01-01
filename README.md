@@ -37,10 +37,8 @@ chmod +x sqlmap.py
 ## 🚀 Utilisation dans un cadre pédagogique
 
 ```bash
-./sqlmap.py [options]
+./sqlmap.py
 ```
-
-Les différentes options permettent d'explorer progressivement les concepts, des plus basiques aux plus avancés.
 
 ## ⚠️ Avertissement pédagogique
 
