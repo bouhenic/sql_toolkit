@@ -20,7 +20,7 @@ Ce toolkit est conçu comme matériel pédagogique pour les cours de sécurité 
 sql_toolkit/
 ├── config/         # Configurations pour les différents scénarios pédagogiques
 ├── modules/        # Modules d'apprentissage et exercices
-└── sqlmap.py      # Script principal
+└── sqlmap.sh      # Script principal
 ```
 
 ## 🔧 Installation
@@ -31,13 +31,13 @@ git clone https://github.com/bouhenic/sql_toolkit.git
 cd sql_toolkit
 
 # Donner les droits d'exécution
-chmod +x sqlmap.py
+chmod +x sqlmap.sh
 ```
 
 ## 🚀 Utilisation dans un cadre pédagogique
 
 ```bash
-./sqlmap.py
+./sqlmap.sh
 ```
 
 ## ⚠️ Avertissement pédagogique
